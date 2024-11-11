@@ -33,7 +33,7 @@ VertexLitGeneric
 
 	Proxies
 	{
-		spy_invis
+		invis
 		{
 		}
 		AnimatedTexture
